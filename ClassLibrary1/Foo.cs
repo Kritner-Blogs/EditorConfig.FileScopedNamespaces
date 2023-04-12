@@ -1,7 +1,6 @@
-namespace ClassLibrary1
-{
-    public class Foo
-    {
+namespace ClassLibrary1;
 
-    }
+public class Foo
+{
+
 }
